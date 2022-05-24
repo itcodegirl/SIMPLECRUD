@@ -25,3 +25,7 @@
   height: 50px;
   margin-top: 15px;
 }
+
+.information button:hover {
+  cursor: pointer;
+}
